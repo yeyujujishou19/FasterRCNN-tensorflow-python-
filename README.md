@@ -17,7 +17,7 @@ Faster RCNN源码解读4-其他收尾工作：ROI_pooling、分类、回归等
 
 Faster RCNN源码解读5-损失函数
 
-具体解析文章见：“https://blog.csdn.net/sxlsxl119”
+具体解析文章见：https://blog.csdn.net/sxlsxl119
 
 或者关注微信公众号：“人工智能与图像处理”，查看原文（下面是相关链接）
 https://mp.weixin.qq.com/s/7O1dDM70a3H9_1hMUdKiVg
